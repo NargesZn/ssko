@@ -24,6 +24,7 @@
 
       <meta name="keyboard-shortcuts-preference" content="all">
       <meta name="hovercards-preference" content="true">
+
       <meta name="announcement-preference-hovercard" content="true">
 
   <meta http-equiv="x-pjax-version" content="28935f068d3dd0bf146b110f495205119f6556d3b30090d47e72472cafb1e9aa" data-turbo-track="reload">
