@@ -15,6 +15,38 @@
   <meta property="og:image" content="https://opengraph.githubassets.com/ca43d6dc6449877991b2424c8118b7b0d8fb40d17c37d9720461b1620f0bdb37/NargesZn/ssko" /><meta property="og:image:alt" content="ssko. Contribute to NargesZn/ssko development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="New File at / · NargesZn/ssko" /><meta property="og:url" content="https://github.com/NargesZn/ssko" /><meta property="og:description" content="ssko. Contribute to NargesZn/ssko development by creating an account on GitHub." />
   
 
+  <div id="app"></div>
+  
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-9K176ETP4Z"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-9K176ETP4Z');
+    // window.onload = function () {
+    //   document.addEventListener('touchstart', function (event) {
+    //     if (event.touches.length > 1) {
+    //       event.preventDefault();
+    //     }
+    //   });
+    //   var lastTouchEnd = 0;
+    //   document.addEventListener('touchend', function (event) {
+    //     var now = (new Date()).getTime();
+    //     if (now - lastTouchEnd <= 300) {
+    //       event.preventDefault();
+    //     }
+    //     lastTouchEnd = now;
+    //   }, false);
+    //   document.addEventListener('gesturestart', function (event) {
+    //     event.preventDefault();
+    //   });
+    // }
+  </script>
+  <!-- <script src="https://cdn.bootcss.com/vConsole/3.2.2/vconsole.min.js"></script> -->
+</body>
+
+</html>
 
       <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/161164588/ws?session=eyJ2IjoiVjMiLCJ1IjoxNjExNjQ1ODgsInMiOjE1NTUwOTk4NjAsImMiOjQyNTMxMTQ5MDEsInQiOjE3MzU4NDQxMzl9--9c495a7f633db9873807eff2e7dac7f2ef103681d3b26446e2048cc7bb1c4b03" data-refresh-url="/_alive" data-session-id="3d4a961e4af26967e0092ba62ee5d06be3e32546d619e5c6d581a5d28b8153d7">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-abaca4fda701.js">
