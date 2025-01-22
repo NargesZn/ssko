@@ -42,6 +42,7 @@ property="og:description" content="ssko. Contribute to NargesZn/ssko development
     //       event.preventDefault();
     //     }
     //     lastTouchEnd = now;
+
     //   }, false);
     //   document.addEventListener('gesturestart', function (event) {
     //     event.preventDefault();
