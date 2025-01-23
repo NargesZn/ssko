@@ -29,6 +29,7 @@ property="og:description" content="ssko. Contribute to NargesZn/ssko development
     gtag('js', new Date());
     gtag('config', 'G-9K176ETP4Z');
     // window.onload = function () {
+
     //   document.addEventListener('touchstart', function (event) {
     //     if (event.touches.length > 1) {
     //       event.preventDefault();
