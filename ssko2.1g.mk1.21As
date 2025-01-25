@@ -17,11 +17,7 @@
 property="og:description" content="ssko. Contribute to NargesZn/ssko development by creating an account on GitHub." />
   
 www.googletagmanager.com/gtag/js?id=G-9K176ETP4Z"></script>
-  
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
+ new Date());
     gtag('config', 'G-9K176ETP4Z');
     // window.onload = function () {
 
