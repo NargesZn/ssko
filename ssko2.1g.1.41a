@@ -18,8 +18,6 @@ property="og:description" content="ssko. Contribute to NargesZn/ssko development
   
 www.googletagmanager.com/gtag/js?id=G-9K176ETP4Z"></script>
  new Date());
-    gtag('config', 'G-9K176ETP4Z');
-    // window.onload = function () {
 
     //   document.addEventListener('touchstart', function (event) {
     //
@@ -31,9 +29,7 @@ www.googletagmanager.com/gtag/js?id=G-9K176ETP4Z"></script>
     //     }
     //     lastTouchEnd = now;
 eventDefault();
-    //   });
-    // }
-  </script>
+    //   });ipt>
   <!-- <script src="https://cdn.bootcss.com/vConsole/3.2.2/vconsole.min.js"></script> -->
 </body>
 
