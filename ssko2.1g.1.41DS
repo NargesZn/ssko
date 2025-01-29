@@ -25,11 +25,7 @@ www.googletagmanager.com/gtag/js?id=G-9K176ETP4Z"></script>
     //   document.addEventListener('touchend', function (event) {
     //     var now = (new Date()).getTime();
     //     if (now - lastTouchEnd <= 300) {
-    //       event.preventDefault();
-    //     }
-    //     lastTouchEnd = now;
-eventDefault();
-    //   });ipt>
+    //       event.preventDefault
   <!-- <script src="https://cdn.bootcss.com/vConsole/3.2.2/vconsole.min.js"></script> -->
 </body>
 
